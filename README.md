@@ -1,5 +1,5 @@
 --------------------------------------------
-PCA toolbox for MATLAB - version 1.5
+PCA toolbox for MATLAB
 --------------------------------------------
 The PCA toolbox for MATLAB is a collection of MATLAB modules for calculating unsupervised multivariate models for data structure analysis: Principal Component Analysis (PCA), Multidimensional Scaling (MDS) and Cluster Analysis.
 
